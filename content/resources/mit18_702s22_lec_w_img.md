@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-18-012-algebra-ii-student-notes-spring-2022/mit18_702s22_lec_w_img.zip
+file: /ol-ocw-studio-app/courses/res-18-012-algebra-ii-student-notes-spring-2022/mit18_702s22_lec_w_img.zip
 file_size: 425552
 file_type: application/zip
 image_metadata:
